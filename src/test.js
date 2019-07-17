@@ -4,8 +4,8 @@ var ciocolate = getCiocolate();
 function traba() {
   for (var ciocolata in ciocolate) {
     if (ciocolate.hasOwnProperty(var ciocolata)) {
-  marmota.inveleste(ciocolata, "staniol")
-}
+      marmota.inveleste(ciocolata, "staniol")
+    }
   }
   fericita(marmota);
 }
